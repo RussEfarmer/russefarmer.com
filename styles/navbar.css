@@ -1,0 +1,42 @@
+.navigation {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 300px;
+	
+}
+.navigation img {
+	height: auto;
+	width: 85%;
+	margin:15px;
+	
+}
+.left-navbar {
+	background-color:rgb(255, 255, 255, 0.4);
+	margin:10px;
+	border: solid 1px black;
+	padding:10px;
+	color:white;
+	text-shadow: 2px 2px 1px black; 
+}
+
+.content-area {
+	margin: 10px;
+	margin-left: 300px;
+	background-color: rgb(255, 255, 255, 0.4);
+	border: solid 1px black;
+	padding: 16px;
+	padding-top: 4px;
+	width:auto;
+	color:black;
+}
+
+.content-area img, .content-area video {
+	height:auto;
+	max-width:100%;
+	width:auto;
+}
+
+.left-navbar ul {
+	margin:0px;
+}
